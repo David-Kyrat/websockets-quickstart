@@ -8,6 +8,18 @@ Demo Screenshot:
 
 ![Demo screenshot](./src/main/resources/demo-screenshot.png) 
 
+## Running
+
+```
+mvn clean quarkus:dev
+```
+
+Once the quarkus startup has finished, you can press the 'w' key to open the project in your webbrowser. (Press 'd' to open the dev-ui.)
+
+<br />
+
 ---
+
+<br />
 
 Quarkus guide: https://quarkus.io/guides/websockets
